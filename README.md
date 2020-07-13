@@ -1,4 +1,4 @@
-# datalayer-pdo-mysql
+# datalayer-mysql-pdo
 
 
 ###### Camada de abstração de dados componentes de persistente do banco de dados mysql com PDO, aplicando prepared statements para executar rotinas comuns, como registrar, ler, editar e remover dados.
